@@ -26,6 +26,6 @@ description: "Der Angebotsvergleich vergleicht Angebote anhand von verschiedenen
 
 ## Folgen wenn kein Angebotsvergleich durchgeführt wurde
 
-- Mangelnde Qualität: Beschwerden, Reperaturkosten, Imageverlust
+- Mangelnde Qualität: Beschwerden, Reparaturkosten, Imageverlust
 - Lieferzeit zu lange: Fehlerverkäufe
 - Zahlungsziel zu kurz: Liquiditätsengpässe
